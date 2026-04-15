@@ -9,8 +9,7 @@ I focus on building high-performance web applications and immersive game systems
 - **Systems Engineering:** Low-level optimizations and network communications.
 
 - 🔭 I’m currently working on **SaaS Applications**
-- 🌱 I’m currently learning **Advanced Unity & UE5 VR/AR**
-- 👯 I’m looking to collaborate on **Open-source web tools or game projects**
+- 👯 I’m looking to collaborate on **web or game projects**
 - 💬 Ask me about **Web architecture, Game mechanics, or Engineering at LU**
 - ⚡ Fun fact: **I once spent 5 hours debugging code only to realize it was a missing semicolon.**
 
