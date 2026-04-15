@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋 I'm Karim
 
-<!--
-**Karim-B1/Karim-B1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Full-Stack Web & Game Developer | Computer & Communication Engineer
+**Bridging the gap between robust engineering and interactive digital experiences.**
 
-Here are some ideas to get you started:
+- 🔭 **Current Focus:** Developing [Project Type, e.g., scalable MERN applications] and immersive [2D/3D] game mechanics.
+- 🏗️ **Engineering Background:** Computer & Communication Engineering at LU — specializing in systems architecture and digital communication.
+- 👯 **Collaboration:** Open to contributing to innovative Web3, SaaS, or Game projects.
+- 💬 **Ask me about:** JavaScript frameworks, C# scripting, or Network Engineering.
+- 📫 **Connect with me:** [Link your LinkedIn or Portfolio]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Technical Toolbox
+
+**Development**
+![JavaScript](https://shields.io) ![React](https://shields.io) ![Unity](https://shields.io) ![C#](https://shields.io)
+
+**Engineering & Ops**
+![C++](https://shields.io) ![Git](https://shields.io) ![Docker](https://shields.io)
+
+---
+
+### 📈 Contribution Activity
+![Karim's GitHub stats](https://vercel.app)
