@@ -3,7 +3,7 @@
 Hey, I'm Karim 👋  
 I focus on building high-performance web applications and immersive game systems, with a deep interest in how hardware and software communicate.
 
-**Computer & Communication Engineer — LU exploring:**
+**Computer & Communication Engineer exploring:**
 - **Full-Stack Architecture:** Scalable web systems and cloud integration.
 - **Game Engine Development:** Physics, real-time rendering, and interactive mechanics.
 - **Systems Engineering:** Low-level optimizations and network communications.
